@@ -1,6 +1,3 @@
-# mil-multi-modal-pilot
-A sandbox pilot demonstrating Multiple Instance Learning (MIL) to detect root causes of system failures using combined APM telemetry and SBOM dependency data.
-Markdown
 # Multi-Modal MIL Pilot: Root Cause Diagnostics
 
 This repository contains a sandbox pilot demonstrating how to use Multiple Instance Learning (MIL) to detect the exact root cause of system failures. It bridges DevOps telemetry with AppSec data, designed specifically to solve complex diagnostic challenges—such as isolating the exact Sonatype policy violations triggered after installing the New Relic Python agent.
