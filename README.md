@@ -32,7 +32,7 @@ To transition this pilot from the synthetic sandbox to real organizational data 
 1. The Runtime Pipeline (New Relic)
 Instead of generating synthetic spans, fetch distributed traces directly using the New Relic NerdGraph GraphQL API.
 
-Endpoint: https://api.newrelic.com/graphql (or https://api.eu.newrelic.com/graphql for EU accounts)
+Endpoint: https://api.newrelic.com
 
 Authentication: Requires a API-Key header with your User API key.
 
